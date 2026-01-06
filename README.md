@@ -1,5 +1,7 @@
 # Zero-Entry-Docker
 
+![Zero-Entry-Docker](assets/zero-entry-docker.png)
+
 🚀 **One-command deployment: Hetzner server + Cloudflare Tunnel + Docker - fully automated.**
 
 > ⚠️ **Disclaimer:** This project was developed and tested on macOS. Use at your own risk. While care has been taken to ensure security, you are responsible for reviewing the code and understanding what it does before running it.
