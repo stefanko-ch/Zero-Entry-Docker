@@ -12,3 +12,4 @@ tofu/.terraform/
 .idea/
 .vscode/
 *.swp
+tofu/.terraform.tfstate.lock.info
